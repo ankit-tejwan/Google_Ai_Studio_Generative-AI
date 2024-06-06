@@ -2,8 +2,15 @@ Google's Generative AI Studio has recently launched an exciting and groundbreaki
 This project aims to redefine the possibilities of AI-generated content with a strong focus on creativity and innovation. 
 The "Gemini-1.5-flash" model represents a significant advancement in AI-generated text and images, promising to open up a wide range of applications. 
 This project has quickly captured the attention of the AI community and is poised to drive substantial advancements in generative AI technology.
-****************************************************
+***************************************************************************
 To generate your API key, you can follow the URL.
 
 https://aistudio.google.com/app/apikey
-***************************************************
+***************************************************************************
+###########################################################################
+
+Use this URL to generate a code template using Python or another language.
+
+
+https://aistudio.google.com/app/prompts/new_chat
+###########################################################################
