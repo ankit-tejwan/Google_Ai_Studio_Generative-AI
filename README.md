@@ -14,3 +14,4 @@ Use this URL to generate a code template using Python or another language.
 
 https://aistudio.google.com/app/prompts/new_chat
 ###########################################################################
+![Google_Generative_ai_studio](https://github.com/ankit-tejwan/Google_Ai_Studio_Generative-AI/assets/77053184/7f35616b-953c-494c-aa43-520b5173ee66)
